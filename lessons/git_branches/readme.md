@@ -22,4 +22,5 @@ The students will learn:
 # Additional Resources
 
 [Git Cheat Sheet](http://files.zeroturnaround.com/pdf/zt_git_cheat_sheet.pdf)
+
 Atlassian - comparing workflows (https://www.atlassian.com/git/tutorials/comparing-workflows)
